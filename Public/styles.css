@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: linear-gradient(to right, rgb(165, 39, 250) , rgb(204, 99, 160));;
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(99, 0, 165);
+    padding: 3px;
+    border-radius: 20px;
+  }
+  a{
+    display: flex;
+  }
